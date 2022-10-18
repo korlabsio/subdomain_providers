@@ -663,8 +663,8 @@ for-more.biz, ddns
 for-our.info, ddns
 for-some.biz, ddns
 for-the.biz, ddns
-forgot.her.name, ddns
-forgot.his.name, ddns
+her.name, ddns
+his.name, ddns
 from-ak.com, ddns
 from-al.com, ddns
 from-ar.com, ddns
@@ -723,7 +723,6 @@ game-host.org, ddns
 game-server.cc, ddns
 getmyip.com, ddns
 gets-it.net, ddns
-go.dyndns.org, ddns
 gotdns.com, ddns
 gotdns.org, ddns
 groks-the.info, ddns
@@ -732,7 +731,6 @@ ham-radio-op.net, ddns
 here-for-more.info, ddns
 hobby-site.com, ddns
 hobby-site.org, ddns
-home.dyndns.org, ddns
 homedns.org, ddns
 homeftp.net, ddns
 homeftp.org, ddns
