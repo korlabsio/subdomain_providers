@@ -8,7 +8,6 @@ nitrado.hosting, fsp
 amazonaws.com, csp
 google.com, fss
 weebly.com, fsp
-blogspot.com, fsp
 wix.com, fsp
 wordpress.com, fsp
 bravenet.com, fsp
@@ -115,7 +114,6 @@ servepics.com, ddns
 servequake.com, ddns
 webhop.me, ddns
 access.ly, ddns
-ddns.me, ddns
 dynns.com, ddns
 dynv6.net, ddns
 16-b.it, ddns
@@ -233,7 +231,6 @@ now-dns.net, ddns
 ownip.net, ddns
 vpndns.net, ddns
 now-dns.org, ddns
-x443.pw, ddns
 now-dns.top, ddns
 ntdll.top, ddns
 freeddns.us, ddns
@@ -251,7 +248,6 @@ ditchyourip.com, ddns
 dnsfor.me, ddns
 dnsiskinky.com, ddns
 dvrcam.info, ddns
-dynns.com, ddns
 eating-organic.net, ddns
 fantasyleague.cc, ddns
 geekgalaxy.com, ddns
