@@ -25,5 +25,6 @@ Type of service provider (second column) is one of the following:
 5. csp: Cloud Service Provider
 6. fpp: Free Page Provider
 7. tss: Text Sharing Service
+8. lrs: Link redirection service
 
 Feel free to open an issue for updating the list!
