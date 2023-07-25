@@ -135,7 +135,7 @@ filesusr.com, fsp
 web.app, fsp
 netlify.com, csp
 heroku.com, csp
-fleek.co, csp
+fleek.co, ipfs
 hop.ru, fsp
 xsph.ru, fsp
 typeform.com, fsp
@@ -932,8 +932,8 @@ backblazeb2.com, psp
 sendibt3.com, fsp
 mystrikingly.com, fsp
 sharepoint.com, other
-ipfs.io, fss
-w3s.link, fss
+ipfs.io, ipfs
+w3s.link, ipfs
 ic0.app, fsp
 finance.blog, fsp
 crazydomains.com, psp
@@ -950,8 +950,8 @@ linodeobjects.com, psp
 wpengine.com, fsp
 zoom.us, fsp
 fastly.net, fsp
-dweb.link, fss
-cf-ipfs.com, fss
+dweb.link, ipfs
+cf-ipfs.com, ipfs
 ubpages.com, fsp
 10web.site, fsp
 powerappsportals.com, psp
@@ -960,7 +960,7 @@ mj.am, fsp
 temp-site.link, fsp
 user.fm, fsp
 elfsig.ht, fsp
-cloudflare-ipfs.com, fss
+cloudflare-ipfs.com, ipfs
 lpages.co, fsp
 soundestlink.com, fsp
 vercel.app, fsp
@@ -977,3 +977,13 @@ emlnk.com, fsp
 nftstorage.link, fss
 brizy.site, fsp
 work.gd, fsp
+pinata.cloud, ipfs
+via0.com, ipfs
+hardbin.com, tss
+konubinix.eu, ipfs
+4everland.io, ipfs
+gw3.io, ipfs
+ninetailed.ninja, ipfs
+eternum.io, ipfs
+greyh.at, ipfs
+jorropo.net, ipfs

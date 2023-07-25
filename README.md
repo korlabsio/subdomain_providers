@@ -26,5 +26,6 @@ Type of service provider (second column) is one of the following:
 6. fpp: Free Page Provider
 7. tss: Text Sharing Service
 8. lrs: Link redirection service
+9. ipfs: InterPlanetary File System
 
 Feel free to open an issue for updating the list!
