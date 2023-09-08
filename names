@@ -988,3 +988,6 @@ eternum.io, ipfs
 greyh.at, ipfs
 jorropo.net, ipfs
 rs6.net, lrs
+dropboxusercontent.com, csp
+githubusercontent.com, csp
+activehosted.com, psp
