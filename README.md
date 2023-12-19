@@ -1,5 +1,5 @@
 # subdomain_providers
-A curated list of free subdomain providers and dynamic DNS providers with their type
+A curated list of registered domain names by third-party companies providing services such as free subdomains, dynamic DNS etc, with their types
 
 ### Description
 
@@ -29,3 +29,5 @@ Type of service provider (second column) is one of the following:
 9. ipfs: InterPlanetary File System
 
 Feel free to open an issue for updating the list!
+
+Do not ask for pull requests, just open issue for addition/deletion
