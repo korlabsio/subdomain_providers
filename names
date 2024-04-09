@@ -143,6 +143,7 @@ typeform.com, fsp
 live.com, fss
 beget.tech, fsp
 pastebin.com, tss
+paste.ee, tss
 ovh.net, fsp
 dynadot.com, fsp
 pages.dev, fsp
@@ -943,6 +944,7 @@ yandexcloud.net, csp
 boxmode.io, fsp
 r2.dev, fsp
 kinsta.cloud, psp
+kinsta.page, psp
 run.app, psp
 bio.site, fpp
 linodeobjects.com, psp
@@ -1007,3 +1009,4 @@ flow.page, fpp
 sixshop.com, fpp
 start.page, fsp
 ukit.me, fsp
+surge.sh, fsp
