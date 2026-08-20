@@ -21,3 +21,7 @@ We define the following service types:
 Use this link to fetch the latest version of the list: [https://raw.githubusercontent.com/korlabsio/subdomain_providers/refs/heads/main/names](https://raw.githubusercontent.com/korlabsio/subdomain_providers/refs/heads/main/names).
 
 Note that it only includes service domains, not the corresponding company websites/pages. For example, `https://docs.github.com/en/pages` is the service website, but our list includes the `github.io` domain. This will effectively match subdomains that are of format `https://example.github.io`.
+
+## Contributions
+
+If you want us to add a domain to the list, please open an issue. We will then review your request.
